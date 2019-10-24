@@ -42,6 +42,11 @@
         <input type="reset" value="重置">
     </td>
   </tr>
+  <tr>
+    <td colspan="2" class="ct reg">
+      <a href="index.php">回首頁</a>
+    </td>
+  </tr>
 </table>
 </form>
 </body>
